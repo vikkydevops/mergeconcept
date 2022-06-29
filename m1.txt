@@ -5,7 +5,7 @@ mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmerg
 4444444444444444444444444444444444444
 uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 <<<<<<< HEAD
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-=======
 jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+=======
+
 >>>>>>> 6e9a62765a1aaad06d58960cf7e97e6c0de10628
